@@ -9,7 +9,7 @@
 ## Overview
 The data has been split into two groups:
   1. train set ([train.csv](https://github.com/Krutik27401/Airline_Price-Prediction_Project/blob/main/data/test.csv))
-  2. test set ([test.csv]())
+  2. test set ([test.csv](https://github.com/Krutik27401/Airline_Price-Prediction_Project/blob/main/data/train.csv))
   
  The **Train set** should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “Flight_Price ”) for each flight.
 
