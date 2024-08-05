@@ -40,3 +40,6 @@ The columns are as follows:
 17. Promotion_Type: The type of promotion offered for the flight. 
 18. Fuel_Price: The cost of fuel (per liter), which can significantly influence ticket prices.
 19. Flight_Price: The price of the flight ticket.
+
+> [!NOTE]
+>For the Flight price Prediction please refer [Submission.csv]().
