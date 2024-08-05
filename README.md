@@ -8,7 +8,7 @@
 
 ## Overview
 The data has been split into two groups:
-  1. train set (train.csv)
+  1. train set ([train.csv]())
   2. test set (test.csv)
   
  The **Train set** should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “Flight_Price ”) for each flight.
