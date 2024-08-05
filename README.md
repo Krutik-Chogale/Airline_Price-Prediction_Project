@@ -19,22 +19,22 @@ Here are the column values and their descriptions:
 
 The columns are as follows: 
 
-Flight_ID: A unique identifier for each flight.
-Airline: The airline operating the flight.
-Departure_City: The city from which the flight departs.
-Arrival_City: The city where the flight arrives.
-Distance: The distance between the departure and arrival cities (in kilometers).
-Departure_Time: The time of day when the flight departs (in 24-hour format).
-Arrival_Time: The time of day when the flight arrives (in 24-hour format).
-Duration: The duration of the flight (in hours).
-Aircraft_Type: The type of aircraft used for the flight.
-Number_of_Stops: The number of stops during the journey.
-Day_of_Week: The day of the week when the flight takes place.
-Month_of_Travel: The month when the flight takes place.
-Holiday_Season: Indication of whether the flight occurs during a holiday or a specific season.
-Demand: A metric representing the demand for flights on that specific route.
-Weather_Conditions: Weather conditions during the flight.
-Passenger_Count: The number of passengers on the flight.
-Promotion_Type: The type of promotion offered for the flight. 
-Fuel_Price: The cost of fuel (per liter), which can significantly influence ticket prices.
-Flight_Price: The price of the flight ticket.
+1. Flight_ID: A unique identifier for each flight.
+2. Airline: The airline operating the flight.
+3. Departure_City: The city from which the flight departs.
+4. Arrival_City: The city where the flight arrives.
+5. Distance: The distance between the departure and arrival cities (in kilometers).
+6. Departure_Time: The time of day when the flight departs (in 24-hour format).
+7. Arrival_Time: The time of day when the flight arrives (in 24-hour format).
+8. Duration: The duration of the flight (in hours).
+9. Aircraft_Type: The type of aircraft used for the flight.
+10. Number_of_Stops: The number of stops during the journey.
+11. Day_of_Week: The day of the week when the flight takes place.
+12. Month_of_Travel: The month when the flight takes place.
+13. Holiday_Season: Indication of whether the flight occurs during a holiday or a specific season.
+14. Demand: A metric representing the demand for flights on that specific route.
+15. Weather_Conditions: Weather conditions during the flight.
+16. Passenger_Count: The number of passengers on the flight.
+17. Promotion_Type: The type of promotion offered for the flight. 
+18. Fuel_Price: The cost of fuel (per liter), which can significantly influence ticket prices.
+19. Flight_Price: The price of the flight ticket.
