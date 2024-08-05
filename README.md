@@ -42,4 +42,4 @@ The columns are as follows:
 19. Flight_Price: The price of the flight ticket.
 
 > [!NOTE]
->For the Flight price Prediction please refer [Submission.csv]().
+>For the Flight prices please refer [Submission.csv](https://github.com/Krutik27401/Airline_Price-Prediction_Project/blob/main/submission.csv).
